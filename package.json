@@ -1,0 +1,22 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "description": "This is a simple project to test the CI service",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperblocksHQ/test-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperblocksHQ/test-ci/issues"
+  },
+  "homepage": "https://github.com/SuperblocksHQ/test-ci#readme"
+}
